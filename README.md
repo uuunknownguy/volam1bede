@@ -5,8 +5,8 @@ Mình sẽ update các bản cập nhập cải thiện giao diện tiếng vi�
 
 
 Update 25-09-2025:
-https://drive.google.com/drive/folders/1Meed2FZL4P3wnvpKkmfJgcY-eUyXrA8j?usp=sharing
-
+GoogleDrive: https://drive.google.com/drive/folders/1Meed2FZL4P3wnvpKkmfJgcY-eUyXrA8j?usp=sharing
+OneDrive: https://p00v-my.sharepoint.com/:f:/g/personal/admin_p00v_onmicrosoft_com/EuhynE7ILs1IkesGcMjZSDMBaLq3g6_gz8yWH5eptKuWrA?e=GhfIhE
 AE đọc hướng dẫn nếu muốn update nhanh cho PC ko phải tải toàn bộ.
 Lưu ý:
 - Bản việt hoá giao diện cơ bản, đủ chơi đủ sài
