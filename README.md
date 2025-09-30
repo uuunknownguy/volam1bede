@@ -12,6 +12,9 @@ Mega: https://mega.nz/folder/ykAw3BaT#uPEEBQzaeqW31XoUPuWZ1A
 
 OneDrive: https://p00v-my.sharepoint.com/:f:/g/personal/admin_p00v_onmicrosoft_com/EuhynE7ILs1IkesGcMjZSDMBaLq3g6_gz8yWH5eptKuWrA?e=GhfIhE
 
+Mediagfire: https://www.mediafire.com/folder/q04iobgrlatwz/KiemVongGiangHo
+
+Terabox:  https://1024terabox.com/s/14cAtkZ37HqqTXBCuZ5pKOA
 
 A. Nếu lần đầu chơi, hãy tải bản PC-KiemVongGiangHo.zip
 B. Nếu đã có bản PC thì tải Patch.zip:
